@@ -4,18 +4,18 @@
 
 ## [binder](https://mybinder.org/)
 
-在binder搭建了python环境，访问下面网址就可以直接编译
+在binder搭建了Python环境，访问下面网址就可以直接编译
 
-- jupyter notebook
-
-```
-https://mybinder.org/v2/gh/chinaluoyanbin/SmallPythonProject.git/master?filepath=demo.ipynb
-```
-
-- jupyter lab
+- [jupyter notebook](https://mybinder.org/v2/gh/chinaluoyanbin/Python-Online.git/master?filepath=demo.ipynb)
 
 ```
-https://mybinder.org/v2/gh/chinaluoyanbin/SmallPythonProject.git/master?urlpath=lab/tree/demo.ipynb
+https://mybinder.org/v2/gh/chinaluoyanbin/Python-Online.git/master?filepath=demo.ipynb
+```
+
+- [jupyter lab](https://mybinder.org/v2/gh/chinaluoyanbin/Python-Online.git/master?urlpath=lab/tree/demo.ipynb)
+
+```
+https://mybinder.org/v2/gh/chinaluoyanbin/Python-Online.git/master?urlpath=lab/tree/demo.ipynb
 ```
 
 ## How it works
