@@ -1,0 +1,8 @@
+dependencies:
+  - python=3
+  - pip:
+    - beautifulsoup4
+    - numpy
+    - pandas
+    - Pillow
+    - requests
