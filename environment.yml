@@ -6,3 +6,4 @@ dependencies:
     - pandas
     - Pillow
     - requests
+    - tensorflow
